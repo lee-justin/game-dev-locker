@@ -36,12 +36,9 @@ pause
 
 Start>Notepad
 
-* Dropbox
-* Github
-* Google Drive
-* OneDrive
+![alt text](https://i.imgur.com/vJtizwV.png "Logo Title Text 1")
 
 # 2. Save File as .bat 
 
-Inline-style: 
-![alt text](https://i.imgur.com/vJtizwV.png "Logo Title Text 1")
+
+
