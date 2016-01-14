@@ -42,9 +42,6 @@ Start>Notepad
 * OneDrive
 
 # 2. Save File as .bat 
-Readmes, how to use them in your own application can be found here:
 
-* [plugins/dropbox/README.md] [PlDb]
-* [plugins/github/README.md] [PlGh]
-* [plugins/googledrive/README.md] [PlGd]
-* [plugins/onedrive/README.md] [PlOd]
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
