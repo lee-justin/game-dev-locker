@@ -36,9 +36,23 @@ pause
 
 Start>Notepad
 
+![alt text](https://i.imgur.com/YDKFfo2.png "Logo Title Text 1")
+
+Paste the code
+
 ![alt text](https://i.imgur.com/vJtizwV.png "Logo Title Text 1")
 
 # 2. Save File as .bat 
+* Save this file to your **Desktop**
+* Name the file ``` mount.bat```
+* Save as **Type All Files**
+![alt text](http://i.imgur.com/esKD51J.png "Logo Title Text 1")
+
+# 3. Check your desktop!
+Click on the newly created ```boot.bat``` file
+![alt text](http://i.imgur.com/dteHvP4.png "Logo Title Text 1")
+
+
 
 
 
