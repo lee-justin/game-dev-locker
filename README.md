@@ -46,10 +46,11 @@ Paste the code
 * Save this file to your **Desktop**
 * Name the file ``` mount.bat```
 * Save as **Type All Files**
+*  ** BEFORE SAVING, ENSURE YOUR FILES SETTINGS ARE THE SAME AS THE FOLLOWING:
 ![alt text](http://i.imgur.com/esKD51J.png "Logo Title Text 1")
 
 # 3. Check your desktop!
-Click on the newly created ```boot.bat``` file
+Click on the newly created ```mount.bat``` file
 ![alt text](http://i.imgur.com/dteHvP4.png "Logo Title Text 1")
 
 
