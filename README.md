@@ -46,7 +46,7 @@ Paste the code
 * Save this file to your **Desktop**
 * Name the file ``` mount.bat```
 * Save as **Type All Files**
-*  ** BEFORE SAVING, ENSURE YOUR FILES SETTINGS ARE THE SAME AS THE FOLLOWING: **
+ ** BEFORE SAVING, ENSURE YOUR FILES SETTINGS ARE THE SAME AS THE FOLLOWING: **
 ![alt text](http://i.imgur.com/esKD51J.png "Logo Title Text 1")
 
 # 3. Check your desktop!
