@@ -15,15 +15,17 @@ Description
 REM Drive mapping script for GameDev students in AOIT Lab
 REM at Balboa High School
 
+set GROUP=SlingShotMadness
+
 set NASHOST=10.64.11.25
 
 echo MOUNTING HOME DIRECTORY FOR USER %USERNAME%
 
-if exist w: net use w: /delete
-net use w: \\%NASHOST%\%USERNAME%
+if exist x: net use x: /delete
+net use x: \\%NASHOST%\%GROUP%
 
-if exist w: explorer w:
-if not exist w: goto ERROR
+if exist x: explorer x:
+if not exist x: goto ERROR
 exit
 
 :ERROR
